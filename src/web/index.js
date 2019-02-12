@@ -15,6 +15,7 @@ import Loading from './components/Loading';
 // Load css
 require('./styles/style.scss');
 
+// For github pages remove this
 // Load icons
 import 'simple-line-icons/scss/simple-line-icons.scss';
 // this import is optional and adds a lot of stuff

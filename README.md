@@ -1,5 +1,11 @@
 # React Native + Web Offline
 
+## Notes
+
+`git config --global credential.helper wincred`
+
+for github pages in the future create a custom domain so there are no 404 errors and stuff. or use different hosting (like firebase hosting). Change the `build/index.html` file and `src/web/index.js` file before commit.
+
 ## 👋 Intro
 
 This boilerplate launches with a [React web app](https://reactjs.org/) and [React Native app](https://facebook.github.io/react-native/) sharing a single code base. It shares the 'business logic' (_i.e. actions, containers, reducers_) across the platforms, whilst allowing flexibility in View components to ensure your project looks and feels native in each platform.
