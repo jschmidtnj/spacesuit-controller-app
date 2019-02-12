@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "sdkVersion": "29.0.0",
+    "name": "Space Suit Diagnostics",
+    "slug": "spacesuit-controller-app",
+    "icon": "src/images/app-icon.png",
+    "privacy": "public",
+    "android": {
+      "package": "com.spacesuit.diagnosticsite"
+    }
+  }
+}

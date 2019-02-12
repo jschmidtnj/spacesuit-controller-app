@@ -1,0 +1,6 @@
+# ignore compiled assets
+bundle.js
+*.woff*
+*.eot
+*.ttf
+*.svg
